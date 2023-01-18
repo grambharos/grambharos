@@ -17,7 +17,7 @@
 | [Soft skills](https://bit.ly/grambharos-cs)       |
 | [Credly badges](https://bit.ly/grambharos-credly) |
 
-| Skills                   |
+| Skills                   |                                                                                                           |
 | ------------------------ | --------------------------------------------------------------------------------------------------------- |
 | Operating Systems        | [![Operating Systems](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)                      |
 | Cloud                    | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)](https://skillicons.dev)                      |
