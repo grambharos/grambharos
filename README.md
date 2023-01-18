@@ -36,6 +36,6 @@
 | Services          | [![Services](https://skillicons.dev/icons?i=nginx)](https://bit.ly/grambharos-ts)                               |
 | CMS               | [![CMS](https://skillicons.dev/icons?i=wordpress)](https://bit.ly/grambharos-ts)                                |
 
-![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
-
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
+
+![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
