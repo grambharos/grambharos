@@ -1,6 +1,6 @@
 <h1 align="center">Germio Rambharos ☁</h1>
 
-###
+## Profile
 
 - 👋 Hi, I’m @grambharos
 - 👀 I’m interested in coding, gaming, sports
@@ -8,20 +8,20 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me germio.rambharos@gmail.com
 
-### Social
+## Social
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
 
-### Certifications
+## Skills
 
-| Certifications                                    |
-| ------------------------------------------------- |
-| [Technical Skills](https://bit.ly/grambharos-ts)  |
-| [Soft skills](https://bit.ly/grambharos-cs)       |
-| [Credly badges](https://bit.ly/grambharos-credly) |
+### Skill certs
 
-### Skills
+- [Technical Skills](https://bit.ly/grambharos-ts)
+- [Soft skills](https://bit.ly/grambharos-cs)
+- [Credly badges](https://bit.ly/grambharos-credly)
+
+### Skill badges
 
 | ----------------- | --------------------------------------------------------------------------------------------------------------- |
 | Operating Systems | [![OperatingSystems](https://skillicons.dev/icons?i=linux)](https://bit.ly/grambharos-ts) |
