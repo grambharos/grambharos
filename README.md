@@ -27,19 +27,12 @@
 | Containerization  | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)           |
 | Configuration     | [![Configuration](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)                        |
 | Monitoring        | [![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)                |
-| Editors           | [![Editors](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)                   |
-| Databases         | [![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)                         |
+| Editors           | [![Editors](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)                           |
+| Databases         | [![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)                     |
 | Services          | [![Services](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)                               |
 | CMS               | [![CMS](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)                                |
 
 ![](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
 
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=radical)
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true)
+![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=grambharos&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-
-<details>
-  <summary>Github Stats ⚡</summary>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=grambharos&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
