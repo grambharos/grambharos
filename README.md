@@ -15,13 +15,13 @@
 
 ## Skills
 
-### Skill certs
+### Skill Certifications
 
-- [Technical Skills](https://bit.ly/grambharos-ts)
-- [Soft skills](https://bit.ly/grambharos-cs)
-- [Credly badges](https://bit.ly/grambharos-credly)
+- 🎓 [Technical Skills](https://bit.ly/grambharos-ts)
+- 🌟 [Soft skills](https://bit.ly/grambharos-cs)
+- 👨‍🎓 [Credly badges](https://bit.ly/grambharos-credly)
 
-### Skill badges
+### Skill Badges
 
 |                   |                                                                                                                 |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- |
