@@ -37,7 +37,7 @@
 [![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=radical)
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true)
-
+![Top Langs](github-readme-stats.zohan.tech/api/top-langs/?username=grambharos&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 <details>
   <summary>Github Stats ⚡</summary>
