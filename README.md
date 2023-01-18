@@ -7,10 +7,10 @@
 - 📫 How to reach me germio.rambharos@gmail.com
 
 
-[LinkedIn](https://bit.ly/grambharos-linkedin)
-[Technical Skills]( https://bit.ly/grambharos-ts)
-[Soft skills](https://bit.ly/grambharos-cs)
-[Badges](https://bit.ly/grambharos-credly)
+- [LinkedIn](https://bit.ly/grambharos-linkedin)
+- [Technical Skills]( https://bit.ly/grambharos-ts)
+- [Soft skills](https://bit.ly/grambharos-cs)
+- [Badges](https://bit.ly/grambharos-credly)
 
 
 ![](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
