@@ -1,6 +1,6 @@
-<h1 align="center">Germio Rambharos ☁</h1>
+<h1 align="center">Germio Rambharos☁</h1>
 
-## Profile
+## Info
 
 - 👋 Hi, I’m @grambharos
 - 👀 I’m interested in coding, gaming, sports
@@ -12,6 +12,8 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
+
+## My Projects
 
 ## Skills
 
