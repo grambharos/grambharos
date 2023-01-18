@@ -23,8 +23,8 @@
 
 | Skills            |                                                                                   |
 | ----------------- | --------------------------------------------------------------------------------- |
-| Operating Systems | [![Operating Systems](https://skillicons.dev/icons?i=linux)]                      |
-| Cloud             | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)]                      |
+| Operating Systems | [![OperatingSystems](https://skillicons.dev/icons?i=linux)]                       |
+| Cloud             | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)] )                    |
 | Programming       | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)] |
 | Containerization  | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)]           |
 | Configuration     | [![Configuration](https://skillicons.dev/icons?i=ansible)]                        |
@@ -34,7 +34,5 @@
 | Services          | [![Services](https://skillicons.dev/icons?i=nginx)]                               |
 | CMS               | [![CMS](https://skillicons.dev/icons?i=wordpress)]                                |
 
-![](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
-
+![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=grambharos&layout=compact&theme=merko)
