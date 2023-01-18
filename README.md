@@ -2,13 +2,17 @@
 
 ## Info
 
-- 👋 Hi, I’m @grambharos
-- 👀 I’m interested in coding, gaming, sports
-- 🌱 I’m currently learning **Amazon Web Services**
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me germio.rambharos@gmail.com
+<p>
+👋 Hi, my name is Germio Rambharos.
+I love learning.
+I am a strong advovate for automation in order to make processes in life easier and faster.
+👀 I’m interested in coding, gaming, sports.
+🌱 I’m currently learning **Amazon Web Services**.
+💞️ I’m looking to collaborate on ...
+📫 How to reach me germio.rambharos@gmail.com
+</p>
 
-## Social
+## Contact
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
