@@ -16,6 +16,7 @@ I am a strong advovate for automation in order to make processes in life easier 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/grambharos)
 
 ## My Projects
 
