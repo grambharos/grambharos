@@ -8,31 +8,31 @@
 
 ## Connect
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
+[[LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)]
+[[Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)]
 
 ## Certifications
 
-| Certifications                                    |
-| ------------------------------------------------- |
+| Certifications                                     |
+| -------------------------------------------------- |
 | [Technical Skills](https://bit.ly/grambharos-ts)  |
 | [Soft skills](https://bit.ly/grambharos-cs)       |
 | [Credly badges](https://bit.ly/grambharos-credly) |
 
 ## Skills
 
-| Skills            |                                                                                                           |
-| ----------------- | --------------------------------------------------------------------------------------------------------- |
-| Operating Systems | [![Operating Systems](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)                      |
-| Cloud             | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)](https://skillicons.dev)                      |
-| Programming       | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)](https://skillicons.dev) |
-| Containerization  | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)           |
-| Configuration     | [![Configuration](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)                        |
-| Monitoring        | [![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)                |
-| Editors           | [![Editors](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)                           |
-| Databases         | [![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)                     |
-| Services          | [![Services](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)                               |
-| CMS               | [![CMS](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)                                |
+| Skills            |                                                                                   |
+| ----------------- | --------------------------------------------------------------------------------- |
+| Operating Systems | [![Operating Systems](https://skillicons.dev/icons?i=linux)]                      |
+| Cloud             | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)]                      |
+| Programming       | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)] |
+| Containerization  | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)]           |
+| Configuration     | [![Configuration](https://skillicons.dev/icons?i=ansible)]                        |
+| Monitoring        | [![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)]                |
+| Editors           | [![Editors](https://skillicons.dev/icons?i=vim,vscode)]                           |
+| Databases         | [![Databases](https://skillicons.dev/icons?i=mysql,postgres)]                     |
+| Services          | [![Services](https://skillicons.dev/icons?i=nginx)]                               |
+| CMS               | [![CMS](https://skillicons.dev/icons?i=wordpress)]                                |
 
 ![](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
 
