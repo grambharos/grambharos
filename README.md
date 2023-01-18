@@ -36,4 +36,4 @@
 
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=grambharos&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=grambharos)](https://github.com/anuraghazra/github-readme-stats)
