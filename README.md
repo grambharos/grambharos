@@ -14,8 +14,8 @@
 |---------------------------------------------------|
 
 Skills
-|---------------------------------------------------|
-|Cloud |[![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)](https://skillicons.dev)|
+|||
+|Cloud  |[![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)](https://skillicons.dev)|
 [![Programming](https://skillicons.dev/icons?i=bash,py,go)](https://skillicons.dev)
 [![Containerization](https://skillicons.dev/icons?i=bash,py,go)](https://skillicons.dev)
 
