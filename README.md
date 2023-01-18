@@ -10,12 +10,12 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
-
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
 ## Certifications
 
 | Certifications                                    |
 | ------------------------------------------------- |
-| [Technical Skills](https://bit.ly/grambharos-ts)  |
+| [!Technical Skills](https://bit.ly/grambharos-ts)  |
 | [Soft skills](https://bit.ly/grambharos-cs)       |
 | [Credly badges](https://bit.ly/grambharos-credly) |
 
@@ -23,7 +23,7 @@
 
 | Skills            |                                                                                   |
 | ----------------- | --------------------------------------------------------------------------------- |
-| Operating Systems | [![OperatingSystems](https://skillicons.dev/icons?i=linux)]                       |
+| Operating Systems | [OperatingSystems](https://skillicons.dev/icons?i=linux)]                       |
 | Cloud             | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)] )                    |
 | Programming       | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)] |
 | Containerization  | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)]           |
