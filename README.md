@@ -11,13 +11,15 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
 
-## Skills
+## Certifications
 
-| Skills                                            |
+| Certifications                                    |
 | ------------------------------------------------- |
 | [Technical Skills](https://bit.ly/grambharos-ts)  |
 | [Soft skills](https://bit.ly/grambharos-cs)       |
 | [Credly badges](https://bit.ly/grambharos-credly) |
+
+## Skills
 
 | Skills            |                                                                                                           |
 | ----------------- | --------------------------------------------------------------------------------------------------------- |
