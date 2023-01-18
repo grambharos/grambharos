@@ -19,14 +19,23 @@
 | [Soft skills](https://bit.ly/grambharos-cs)       |
 | [Credly badges](https://bit.ly/grambharos-credly) |
 
-| Skills                   |                                                                                                           |
-| ------------------------ | --------------------------------------------------------------------------------------------------------- |
-| Operating Systems        | [![Operating Systems](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)                      |
-| Cloud                    | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)](https://skillicons.dev)                      |
-| Programming              | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)](https://skillicons.dev) |
-| Containerization         | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)           |
-| Configuration Management | [![Configuration](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)                        |
-| Databases                | [![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)                     |
-| Services                 |
+| Skills            |                                                                                                           |
+| ----------------- | --------------------------------------------------------------------------------------------------------- |
+| Operating Systems | [![Operating Systems](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)                      |
+| Cloud             | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)](https://skillicons.dev)                      |
+| Programming       | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)](https://skillicons.dev) |
+| Containerization  | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)           |
+| Configuration     | [![Configuration](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)                        |
+| Monitoring        | [![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)                |
+| Editors           | [![Editors](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)                   |
+| Databases         | [![Databases](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)                         |
+| Services          | [![Services](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)                               |
+| CMS               | [![CMS](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)                                |
 
 ![](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=grambharos&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
