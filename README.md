@@ -34,7 +34,7 @@
 
 ![](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=grambharos)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>Github Stats ⚡</summary>
