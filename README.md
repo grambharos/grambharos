@@ -8,10 +8,8 @@
 
 ## Connect
 
-| Connect                                                                                    |
-| ------------------------------------------------------------------------------------------ |
-| [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin) |
-| [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)       |
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
 
 ## Skills
 
