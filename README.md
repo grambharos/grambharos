@@ -27,8 +27,8 @@
 | Containerization  | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)           |
 | Configuration     | [![Configuration](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)                        |
 | Monitoring        | [![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)                |
-| Editors           | [![Editors](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)                   |
-| Databases         | [![Databases](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)                         |
+| Editors           | [![Editors](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)                   |
+| Databases         | [![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)                         |
 | Services          | [![Services](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)                               |
 | CMS               | [![CMS](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)                                |
 
