@@ -5,7 +5,7 @@
 <p>
 👋 Hi, my name is Germio Rambharos.
 I love learning.
-I am a strong advovate for automation in order to make processes in life easier and faster.
+I am a strong advocate for automation in order to make processes in life easier and faster.
 👀 I’m interested in coding, gaming, sports.
 🌱 I’m currently learning **Amazon Web Services**.
 💞️ I’m looking to collaborate on ...
