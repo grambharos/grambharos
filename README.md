@@ -24,7 +24,7 @@ I am a strong advocate for automation in order to make processes in life easier 
 
 |                   |                                                                                                                 |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- |
-| Operating Systems | [![OperatingSystems](https://skillicons.dev/icons?i=linux)](https://bit.ly/grambharos-ts)                       |
+| Operating Systems | [![OperatingSystems](https://skillicons.dev/icons?i=linux)]                                                     |
 | Cloud             | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)](https://bit.ly/grambharos-ts)                      |
 | Programming       | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)](https://bit.ly/grambharos-ts) |
 | Containerization  | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](https://bit.ly/grambharos-ts)           |
