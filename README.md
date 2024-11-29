@@ -20,15 +20,7 @@ I am a strong advocate for automation in order to make processes in life easier 
 
 ## My Projects
 
-## Skills
-
-### Skill Certifications
-
-- 🎓 [Technical Skills](https://bit.ly/grambharos-ts)
-- 🌟 [Soft skills](https://bit.ly/grambharos-cs)
-- 👨‍🎓 [Credly badges](https://bit.ly/grambharos-credly)
-
-### Skill Badges
+## My Tech Stack
 
 |                   |                                                                                                                 |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- |
