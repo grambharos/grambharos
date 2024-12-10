@@ -1,10 +1,6 @@
 
 <h1 align="center">Germio Rambharos☁</h1>
 
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
-
-![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
-
 [![Hello World, I'm Germio!](assets/header.gif)](https://github.com/grambharos)
 
 ## Info
@@ -17,13 +13,13 @@ I am a strong advocate for automation in order to make processes in life easier 
 💞️ I’m looking to collaborate on ...
 📫 How to reach me germio.rambharos@gmail.com
 
-## Contact
+## 📫 Contact
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bit.ly/grambharos-linkedin)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/grambharos)
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/grambharos)
 
-## My Tech Stack
+## 💻 My Tech Stack
 
 |                   |                                                                                                             |
 | ----------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -38,4 +34,13 @@ I am a strong advocate for automation in order to make processes in life easier 
 | Programming       | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)](bit.ly/grambharos-skills) |
 | Services          | [![Services](https://skillicons.dev/icons?i=nginx)](bit.ly/grambharos-skills)                               |
 
-## My Projects
+## 🏆 My Stats:
+
+![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=grambharos&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
