@@ -42,6 +42,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
 
 
-https://github-readme-stats.vercel.app/api?username=grambharos&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grambharos&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
