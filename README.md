@@ -38,9 +38,9 @@
 
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&count_private=true&theme=merko" />
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=compact&theme=dark" />
-</p>
+![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=pie)](https://github.com/grambharos/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
+ 
