@@ -1,5 +1,5 @@
 
-<h1 align="center">Germio Rambharos☁</h1>
+<h1 align="center">☁Germio Rambharos☁</h1>
 
 [![Hello World, I'm Germio!](assets/header.gif)](https://github.com/grambharos)
 
@@ -38,10 +38,9 @@
 
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=grambahros&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&count_private=true&theme=merko" />
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=compact&theme=dark" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?grambharos=anuraghazra&show_icons=true&theme=transparent)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=pie)](https://github.com/grambharos/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
