@@ -6,12 +6,13 @@
 ## 🌞 Info
 
 👋 Hi, my name is Germio Rambharos.
+
 - I love learning.
 - I am a strong advocate for automation in order to make processes in life easier and faster.
 - 👀 I’m interested in coding, gaming, sports.
 - 🌱 I’m currently learning **Amazon Web Services**.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me germio.rambharos@gmail.com
+- 📫 How to reach me <germio.rambharos@gmail.com>
 
 ## 📫 Contact
 
@@ -34,11 +35,8 @@
 | Programming       | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)](bit.ly/grambharos-skills) |
 | Services          | [![Services](https://skillicons.dev/icons?i=nginx)](bit.ly/grambharos-skills)                               |
 
-## 🏆 My Stats:
+## 🏆 My Stats
 
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&count_private=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=pie&count_private=true)](https://github.com/grambharos/github-readme-stats)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grambharos&show_icons=true&count_private=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=compact&theme=dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
- 
