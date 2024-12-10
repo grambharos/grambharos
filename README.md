@@ -40,7 +40,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?grambharos=anuraghazra&show_icons=true&theme=transparent)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=pie)](https://github.com/grambharos/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
