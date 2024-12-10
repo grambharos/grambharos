@@ -36,11 +36,9 @@
 
 ## 🏆 My Stats:
 
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&count_private=true&theme=merko)
 
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=grambharos&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=pie)](https://github.com/grambharos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=pie&count_private=true)](https://github.com/grambharos/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
  
