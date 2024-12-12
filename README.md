@@ -36,12 +36,10 @@
 | Services          | [![Services](https://skillicons.dev/icons?i=nginx)](bit.ly/grambharos-skills)                               |
 
 ## 🏆 My Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grambharos&show_icons=true&count_private=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=compact&theme=dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
 
+![1_GitHub Stats](https://github-readme-stats.vercel.app/api?username=grambharos&show_icons=true&count_private=true&theme=dark)
+![2_GitHub Stats](https://github-stats-seven-opal.vercel.app/api?username=grambharos)
 
-![GitHub Stats](https://github-stats-seven-opal.vercel.app/api?username=grambharos)
-
-![Most Used Languages](https://github-stats-seven-opal.vercel.app/api/top-langs/?username=grambharos)
+![1_Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grambharos&layout=compact&theme=dark)
+![2_Most Used Languages](https://github-stats-seven-opal.vercel.app/api/top-langs/?username=grambharos)
