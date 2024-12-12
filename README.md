@@ -37,20 +37,3 @@
 
 ## 🏆 My Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=grambharos&show_icons=true&count_private=true&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=grambharos&include_all_commits=true&show_icons=true&theme=radical)
-
-![GitHub stats](https://github-readme-stats-git-master-grambharos-projects.vercel.app/api?username=grambharos&count_private=true)
-
-![GitHub stats](https://github-readme-stats-tau-pied-27.vercel.app/api?username=grambharos&count_private=true)
-
-![GitHub stats](https://github-readme-stats-tau-pied-27.vercel.app/api?username=grambharos&include_all_commits=true&show_icons=true&theme=radical)
-
-![GitHub stats](https://github-readme-stats-git-master-grambharos-projects.vercel.app/api?username=grambharos&include_all_commits=true&show_icons=true&theme=radical)
-
-<img alt="General GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nimrod46&show_icons=true&theme=merko&hide=contribs" align="right" />
-
-
-<img alt="General GitHub Stats" src="https://github-readme-stats-tau-pied-27.vercel.app/api?username=grambharos&show_icons=true&theme=merko&hide=contribs" align="right" />
