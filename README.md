@@ -38,12 +38,4 @@
 ## 🏆 My Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
 
-![1_GitHub Stats](https://github-readme-stats-git-master-grambharos-projects.vercel.app/api?username=grambharos&show_icons=true&count_private=true&theme=dark)
-![2_GitHub Stats](https://github-readme-stats-git-master-grambharos-projects.vercel.app/api?username=grambharos)
-
-![1_Most Used Languages](https://github-readme-stats-git-master-grambharos-projects.vercel.app/api/top-langs/?username=grambharos&layout=compact&theme=dark)
-![2_Most Used Languages](https://github-readme-stats-git-master-grambharos-projects.vercel.app/api?username=grambharos&show_icons=true&hide_border=false)
-
-
-
- <img align="left" alt="grambharos's GitHub Stats" src="/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=grambharos&show_icons=true&theme=radical)
