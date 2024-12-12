@@ -49,5 +49,3 @@
 ![GitHub stats](https://github-readme-stats-tau-pied-27.vercel.app/api?username=grambharos&include_all_commits=true&show_icons=true&theme=radical)
 
 ![GitHub stats](https://github-readme-stats-git-master-grambharos-projects.vercel.app/api?username=grambharos&include_all_commits=true&show_icons=true&theme=radical)
-
-![GitHub stats](https://github-readme-stats-mlk84uvu5-grambharos-projects.vercel.app/api?username=grambharos&include_all_commits=true&show_icons=true&theme=radical)
