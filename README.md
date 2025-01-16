@@ -32,7 +32,7 @@
 | Containerization                        | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](https://bit.ly/grambharos-skills)              |
 | Configuration                           | [![Configuration](https://skillicons.dev/icons?i=ansible,puppet)](https://bit.ly/grambharos-skills)                    |
 | Databases                               | [![Databases](https://skillicons.dev/icons?i=mysql,mariadb,oracle,postgress,mssql)](https://bit.ly/grambharos-skills)  |
-| Distributed event streaming             | Kafka, RabbitMQ                                                                                                |
+| Distributed event streaming             | [![Distributed event streaming ](https://skillicons.dev/icons?i=kafka,rabbitMQ)](https://bit.ly/grambharos-skills) |
 | Distributed search and analytics engine | Elasticsearch                                                                                                  |
 | Lifecycle Management                    | Foreman                                                                                                        |
 | CI/CD Pipeline                          | Jenkins, ArgoCD                                                                                                |
