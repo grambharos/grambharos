@@ -32,8 +32,8 @@
 | Containerization                        | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](https://bit.ly/grambharos-skills)             |
 | Configuration Management                | [![Configuration](https://skillicons.dev/icons?i=ansible,puppet)](https://bit.ly/grambharos-skills)                   |
 | Databases                               | [![Databases](https://skillicons.dev/icons?i=mysql,mariadb,oracle,postgress,mssql)](https://bit.ly/grambharos-skills) |
-| Distributed event streaming             | [![Distributed event streaming ](https://skillicons.dev/icons?i=kafka,rabbitMQ)](https://bit.ly/grambharos-skills)    |
-| Distributed search and analytics engine | Elasticsearch                                                                                                         |
+| Distributed event streaming             | [![Distributed event streaming ](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://bit.ly/grambharos-skills)    |
+| Distributed search and analytics engine | [![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://bit.ly/grambharos-skills)                                                                                                          |
 | Lifecycle Management                    | Foreman                                                                                                               |
 | CI/CD Pipeline                          | Jenkins, ArgoCD                                                                                                       |
 | Monitoring                              | Karma, Nagios, Sensu, Prometheus, Grafana, Graphite Carbon (Metrics), Kibana, SolarWinds Orion (NPM, NCM, SAM)        |
