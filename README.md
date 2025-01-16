@@ -22,18 +22,37 @@
 
 ## 💻 My Tech Stack
 
-|                   |                                                                                                             |
-| ----------------- | ----------------------------------------------------------------------------------------------------------- |
-| Cloud             | [![Cloud](https://skillicons.dev/icons?i=openstack,aws,gcp)](bit.ly/grambharos-skills)                      |
-| CMS               | [![CMS](https://skillicons.dev/icons?i=wordpress)](bit.ly/grambharos-skills)                                |
-| Configuration     | [![Configuration](https://skillicons.dev/icons?i=ansible)](bit.ly/grambharos-skills)                        |
-| Containerization  | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](bit.ly/grambharos-skills)           |
-| Databases         | [![Databases](https://skillicons.dev/icons?i=mysql,postgres)](bit.ly/grambharos-skills)                     |
-| Editors           | [![Editors](https://skillicons.dev/icons?i=vim,vscode)](bit.ly/grambharos-skills)                           |
-| Monitoring        | [![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)](bit.ly/grambharos-skills)                |
-| Operating Systems | [![OperatingSystems](https://skillicons.dev/icons?i=linux)](bit.ly/grambharos-skills)                       |
-| Programming       | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)](bit.ly/grambharos-skills) |
-| Services          | [![Services](https://skillicons.dev/icons?i=nginx)](bit.ly/grambharos-skills)                               |
+|                                         |                                                                                                                |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Backup                                  | Solarwinds Iaso, Duply                                                                                         |
+| CI/CD Pipeline                          | Jenkins, ArgoCD                                                                                                |
+| CMS                                     | [![CMS](https://skillicons.dev/icons?i=wordpress,joomla,woocommerce)](bit.ly/grambharos-skills)                |
+| Communication                           | Slack, Discord                                                                                                 |
+| Configuration                           | [![Configuration](https://skillicons.dev/icons?i=ansible,puppet)](bit.ly/grambharos-skills)                    |
+| Containerization                        | [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes)](bit.ly/grambharos-skills)              |
+| Content Delivery Network                | Akamai                                                                                                         |
+| Databases                               | [![Databases](https://skillicons.dev/icons?i=mysql,mariadb,oracle,postgress,mssql)](bit.ly/grambharos-skills)  |
+| Distributed event streaming             | Kafka, RabbitMQ                                                                                                |
+| Distributed search and analytics engine | Elasticsearch                                                                                                  |
+| Editors                                 | [![Editors](https://skillicons.dev/icons?i=vim,vscode)](bit.ly/grambharos-skills)                              |
+| File Sharing                            | CentreStack                                                                                                    |
+| Firewall                                | PfSense, FortiGate                                                                                             |
+| IOT                                     | Raspberry Pi, Arduino                                                                                          |
+| Lifecycle Management                    | Foreman                                                                                                        |
+| Linux Services                          | Apache, Nginx, Haproxy, SSL, Tomcat                                                                            |
+| Mail                                    | Office 365, iRedmail, Zimbra, Sogo, Sendgrid                                                                   |
+| Monitoring                              | Karma, Nagios, Sensu, Prometheus, Grafana, Graphite Carbon (Metrics), Kibana, SolarWinds Orion (NPM, NCM, SAM) |
+| Monitoring                              | [![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)](bit.ly/grambharos-skills)                   |
+| Operating Systems                       | [![OperatingSystems](https://skillicons.dev/icons?i=linux)](bit.ly/grambharos-skills)                          |
+| Private Cloud                           | [![Cloud](https://skillicons.dev/icons?i=openstack)](bit.ly/grambharos-skills)                                 |
+| Programming                             | [![Programming](https://skillicons.dev/icons?i=bash,py,go,java,php,js,html,perl)](bit.ly/grambharos-skills)    |
+| Project Management                      | Redmine, SuiteCRM, Zenkit                                                                                      |
+| Public Cloud                            | [![Cloud](https://skillicons.dev/icons?i=aws,gcp)](bit.ly/grambharos-skills)                                   |
+| Security                                | Ethical Hacking, Penetration Testing, IAM                                                                      |
+| Services                                | [![Services](https://skillicons.dev/icons?i=nginx)](bit.ly/grambharos-skills)                                  |
+| Storage                                 | Netapp, TrueNas, Huawei storage                                                                                |
+| Virtualization                          | [![Virtualization](https://skillicons.dev/icons?i=qemu,kvm,virtualbox,vmware)](bit.ly/grambharos-skills)       |
+| VoIP                                    | 3CX VoIP, Grandstream                                                                                          |
 
 ## 🏆 My Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=grambharos&color=brightgreen)
